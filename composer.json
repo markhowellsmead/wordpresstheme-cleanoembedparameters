@@ -1,0 +1,17 @@
+{
+    "name": "markhowellsmead/wordpresstheme-cleanoembedparameters",
+    "description": "Modify the oembed query string parameters.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Mark Howells-Mead",
+        "email": "permanent.tourist@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "MarkHowellsMead\\WordPressTheme\\CleanOembedParameters\\": "src/"
+        }
+    },
+    "require": {}
+}
