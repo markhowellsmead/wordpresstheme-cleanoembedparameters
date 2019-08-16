@@ -1,7 +1,7 @@
 {
     "name": "markhowellsmead/wordpresstheme-cleanoembedparameters",
-    "version": "1.0.0",
-    "description": "Modify the oembed query string parameters.",
+    "version": "1.0.1",
+    "description": "Modify oembed query string parameters.",
     "type": "library",
     "license": "MIT",
     "authors": [{
