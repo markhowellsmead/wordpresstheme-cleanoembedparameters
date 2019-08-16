@@ -7,11 +7,16 @@
         "name": "Mark Howells-Mead",
         "email": "permanent.tourist@gmail.com"
     }],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "MarkHowellsMead\\WordPressTheme\\CleanOembedParameters\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "support": {
+        "issues": "https://github.com/markhowellsmead/wordpresstheme-cleanoembedparameters/issues"
+    }
+
 }
